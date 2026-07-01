@@ -1,7 +1,7 @@
 # Leetcode-SQL-Solutions
 My solutions to SQL queries solved on LeetCode.
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```text
 LeetCode-SQL50/
