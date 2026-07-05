@@ -33,6 +33,8 @@ LeetCode-SQL-Solutions/
 │   ├── monthly-transactions-i.sql
 │   ├── immediate-food-delivery-ii.sql
 │   └── game-play-analysis-iv.sql
+│   └── game-play-analysis-i.sql
+│   └── customer-placing-the-largest-number-of-orders.sql
 │
 ├── 04-sorting-and-grouping/
 │   ├── number-of-unique-subjects-taught-by-each-teacher.sql
@@ -42,6 +44,8 @@ LeetCode-SQL-Solutions/
 │   ├── find-followers-count.sql
 │   ├── biggest-single-number.sql
 │   └── customers-who-bought-all-products.sql
+│   └── actors-and-directors-who-cooperated-at-least-three-times.sql
+
 │
 ├── 05-advanced-select-and-joins/
 │   ├── the-number-of-employees-which-report-to-each-employee.sql
@@ -63,6 +67,8 @@ LeetCode-SQL-Solutions/
 │   ├── friend-requests-ii-who-has-the-most-friends.sql
 │   ├── investments-in-2016.sql
 │   └── department-top-three-salaries.sql
+│   └── sales-person.sql
+│   └── sales-analysis-iii.sql
 │
 ├── 07-advanced-string-functions-regex-clause/
 │   ├── fix-names-in-a-table.sql
