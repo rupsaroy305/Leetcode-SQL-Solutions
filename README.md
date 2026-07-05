@@ -35,6 +35,7 @@ LeetCode-SQL-Solutions/
 │   └── game-play-analysis-iv.sql
 │   └── game-play-analysis-i.sql
 │   └── customer-placing-the-largest-number-of-orders.sql
+│   └── reformat-department-table.sql
 │
 ├── 04-sorting-and-grouping/
 │   ├── number-of-unique-subjects-taught-by-each-teacher.sql
