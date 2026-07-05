@@ -4,7 +4,7 @@ My solutions to SQL queries solved on LeetCode.
 ##  Repository Structure
 
 ```text
-LeetCode-SQL50/
+LeetCode-SQL-Solutions/
 │
 ├── 01-select/
 │   ├── recyclable-and-low-fat-products.sql
@@ -51,6 +51,8 @@ LeetCode-SQL50/
 │   ├── product-price-at-a-given-date.sql
 │   ├── last-person-to-fit-in-the-bus.sql
 │   └── count-salary-categories.sql
+│   └── employees-earning-more-than-their-managers.sql
+│   └── combine-two-tables.sql
 │
 ├── 06-subqueries/
 │   ├── employees-whose-manager-left-the-company.sql
